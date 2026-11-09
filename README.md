@@ -37,7 +37,7 @@ TicTacToe/
 1. Clone the repository:
 
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   (https://github.com/Coffee-sipper/TicTacToe)
    ```
 
 2. Open the project folder.
